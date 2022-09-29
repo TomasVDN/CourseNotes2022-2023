@@ -61,4 +61,34 @@ Mogelijke hinderpalen voor spin offs en start ups:
   - administratieven en juridische problemen (bv. keuze van de vennotschapsvorm, kapitaalstructuur,...)
   - ...
 
-+> enkel 1/3 van de nieuwe bedrijven overleven eerste jaar
+=> enkel 1/3 van de nieuwe bedrijven overleven eerste jaar
+
+## Deel 2: Innovatie en Productlevenscyclus
+
+Productielevenscyclus => herkenbare stadia, geldt voor zowel materiele en imateriele
+
+Stadia op basis van verkocht volume:
+  - Introductie
+  - vroege groei
+  - maturiteit
+  - verval
+
+![Productielevenscyclus](../Pictures/BK2.png)
+![PLC van innovator en industrietak](../Pictures/BK3.png)
+![PLC van innovator en industrietak](../Pictures/BK4.png)
+
+Foothill: eerste piek door "try hards", tweede piek van mensen die reactie van "try hards" afwachten om hem eventueel te kopen
+
+Mode producten: heel populair op een moment t, maar enkele momenten later niet meer
+
+Gronstoffen en energiebronnen apart => langdurige maturiteit: blijft (heel/oneindig) lang stabiel qua inkomsten
+
+PLC fase => heeft impact op manier van produceren
+
+Meestal verschillende producten in verschillende fasen
+
+
+Flowshop => een product dat productielijn volgt (massaproductie)
+Job shop => meerdere producten die door verschillende workshops passeert, in verschillende volgorde (niet perse allemaal dezelfde workshops) (precisie/replacement parts)
+
+PLC wordt steeds korter
