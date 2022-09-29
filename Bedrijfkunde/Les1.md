@@ -42,3 +42,23 @@ Rivaliteit => als veel concurencie heeft koper minder macht, andersom (vb. colru
 Langertermijnvisie <-> kortetermijnwinst
 
 Duurzaamheid is belangerijk concept!
+
+Inovatie en ondernemen onlosmakelijk met elkaar verbonden
+=> Inovatie van levensbelang
+
+belangerijke parameters: kost, kwaliteit, tijd en dienst na verkoop
+
+Entrepreneurship: creeren van een bedrijf dateen probleem oplost
+
+Intrapreneurship vs Entrepreneurship => een van binnen, andere algemeen
+
+Kenniscentra: valorisatie van onderzoek => spin off
+
+Mogelijke hinderpalen voor spin offs en start ups:
+  - geldkapitaal
+  - productidee
+  - aantrekken van goede medewerkers
+  - administratieven en juridische problemen (bv. keuze van de vennotschapsvorm, kapitaalstructuur,...)
+  - ...
+
++> enkel 1/3 van de nieuwe bedrijven overleven eerste jaar
