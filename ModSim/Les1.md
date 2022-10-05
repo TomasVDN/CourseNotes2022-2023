@@ -50,3 +50,12 @@ Inhoud:
 6. Discrete-Event Simulaties
 7. Markov Kettingen
 8. Monte-Carlo Simulaties
+
+## Herrinering Lineaire Algebra
+
+![Model](../Pictures/MS5.png)
+![Model](../Pictures/MS6.png)
+![Model](../Pictures/MS7.png)
+Frobeniusnorm => ||A||f = sqrt(trace(At A)) => Trace is de som van de diagonale, At is de getransponeerde van A
+
+## QR-factorisatie
