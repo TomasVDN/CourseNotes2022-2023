@@ -18,7 +18,7 @@ Same is applicable to models => if all models are independent, average is best
 Ensures that there is "more" data while maintaining independence
 
 why 63.2%?
-  ![Goal](../Pictures/ML5.png)
+![Goal](../Pictures/ML5.png)
 
 ### Bagging: Bootstrap Aggregating
 Given: data set S, integer T
@@ -35,3 +35,15 @@ will add some randomization, will be faster, works very well in practice
 Extreme random forests => variant, which works with an unweighted vote
 
 ### Boosting
+
+slide 18 => strong = small error
+
+models learn from previous models (the second from the first, the third from the first two,...)
+
+slide 29 => count weighted error
+
+### MANIPULATING INPUTS AND OUTPUTS
+
+Different learners see different subsets of features (of each training instances)
+
+Technique works best when input features are highly redundant
